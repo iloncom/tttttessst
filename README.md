@@ -43,9 +43,9 @@
 
 ![](/META-INF/pic1.png)
 
-![](https://img.shields.io/github/tag/pukpukov/AncapStates?style=for-the-badge&logo=appveyor)
+![](https://img.shields.io/github/tag/pukpukov/AncapStates-2?style=for-the-badge&logo=appveyor)
 
-![](https://img.shields.io/github/issues/pukpukov/AncapStates?style=for-the-badge&logo=appveyor) ![](https://img.shields.io/tokei/lines/github/pukpukov/AncapStates?style=for-the-badge&logo=appveyor)
+![](https://img.shields.io/github/issues/pukpukov/AncapStates-2?style=for-the-badge&logo=appveyor) ![](https://img.shields.io/tokei/lines/github/pukpukov/AncapStates?style=for-the-badge&logo=appveyor)
 
 ## Города и нации
 
@@ -69,7 +69,7 @@
 
 ## AncapStates API
 
-![](https://img.shields.io/codefactor/grade/github/PukPukov/AncapStates?style=for-the-badge&logo=appveyor) ![](https://img.shields.io/codeclimate/maintainability-percentage/PukPukov/AncapStates?style=for-the-badge&logo=appveyor)
+![](https://img.shields.io/codefactor/grade/github/PukPukov/AncapStates-2?style=for-the-badge&logo=appveyor) ![](https://img.shields.io/codeclimate/maintainability-percentage/PukPukov/AncapStates-2?style=for-the-badge&logo=appveyor)
 
 #### Base API
 Базовое API представлено примерно 200 методами у объектов City, Nation и AncapStates.
@@ -97,7 +97,7 @@ public void onCityCreation(AncapStatesCityCreateEvent e) {
 
 ## Лицензия
 
-![](https://img.shields.io/github/license/PukPukov/AncapStates?style=for-the-badge&logo=appveyor)
+![](https://img.shields.io/github/license/PukPukov/AncapStates-2?style=for-the-badge&logo=appveyor)
 
 AncapStates лицензирован под MIT Licence. Это означает, что кто угодно может скачать исходный код плагина и делать с ним всё, что он захочет.
 
