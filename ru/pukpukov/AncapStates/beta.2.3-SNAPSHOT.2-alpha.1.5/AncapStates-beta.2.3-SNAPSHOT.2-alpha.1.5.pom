@@ -83,7 +83,7 @@
           <includes>
             <include>**/*</include>
           </includes>
-          <repositoryName>AncapStates</repositoryName>
+          <repositoryName>AncapStates-2</repositoryName>
           <repositoryOwner>PukPukov</repositoryOwner>
         </configuration>
       </plugin>
@@ -149,7 +149,7 @@
     <dependency>
       <groupId>ru.pukpukov</groupId>
       <artifactId>AncapLibrary</artifactId>
-      <version>1.0-SNAPSHOT.5</version>
+      <version>1.0-SNAPSHOT.16</version>
       <scope>provided</scope>
     </dependency>
     <dependency>
